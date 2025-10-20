@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: camera controller
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":20.00488,"y":2.999725},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-252.0,"y":-260.0},"guid":"aa27f8c3-ada0-4dea-ad8e-c4da94e65095","$version":"A","$type":"Unity.VisualScripting.Start"},{"type":"UnityEngine.Transform","value":null,"defaultValues":{},"position":{"x":-284.0,"y":-77.0},"guid":"f6d933e5-21e7-46ac-9180-f6734cf29b15","$version":"A","$type":"Unity.VisualScripting.Literal"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"ea8211bb-041b-46a9-9cb0-918ee26ab591","$version":"A","$type":"Unity.VisualScripting.LateUpdate"},{"chainable":false,"member":{"name":"position","parameterTypes":null,"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null,"input":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"}},"position":{"x":75.0,"y":-39.0},"guid":"a8c75b08-5ea8-456d-b4d1-c9ffc720d17a","$version":"A","$type":"Unity.VisualScripting.SetMember"},{"member":{"name":"position","parameterTypes":null,"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null},"position":{"x":162.0,"y":147.0},"guid":"94c6492c-e7d9-49c9-bd2a-d892efcd2d81","$version":"A","$type":"Unity.VisualScripting.GetMember"}],"$version":"A"}}'
+    _objectReferences: []
